@@ -14,13 +14,8 @@
 3. Enter a task in the input field and click the "Add Task" button.
 4. Check the checkbox when a task is completed, and use the "Remove" button to delete tasks.
 
-## Screenshots
-
 
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
